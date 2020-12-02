@@ -6,8 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
-
+### `npm run start:dev`
+Running two servers cuncurrently. Use "npm run start:dev" instead of running "npm start".
+One server pot:3000 is dedicated to the db.json json file and the another for the application. 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
