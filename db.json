@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": 7,
+      "name": "Subhashji333",
+      "username": "5",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "month": "July",
+      "rating": "4",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Gandhiji",
+      "username": "4.1",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "ratings": [],
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "bandra100",
+      "username": "3.9",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "ratings": [],
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "name": "bibhu3455",
+      "username": "4.1",
+      "email": "bibhumaurya500@gmail.com",
+      "ratings": [],
+      "id": 11
+    },
+    {
+      "name": "hrishi jothady 529",
+      "username": "4.2",
+      "email": "hrishi@simran.com",
+      "id": 12,
+      "website": "asad.hrishi.com",
+      "ratings": [],
+      "rating": "5/7"
+    },
+    {
+      "name": "abhiwala",
+      "username": "4.5",
+      "email": "abhiwala500@gmail.com",
+      "ratings": [],
+      "id": 13
+    },
+    {
+      "name": "cv m,sfdbb",
+      "username": "5",
+      "email": "just500@gmail.com",
+      "ratings": [
+        {
+          "month": "jan",
+          "rating": "5"
+        }
+      ],
+      "phone": "54684369",
+      "website": "d fjkbrnjgb .com",
+      "id": 14
+    },
+    {
+      "name": "cvvcbbbbbbbb",
+      "username": "3.9",
+      "email": "bibhumaurya500@gmail.com",
+      "ratings": [],
+      "phone": "09155818219",
+      "website": "sdserf.com",
+      "id": 17
+    }
+  ]
+}
